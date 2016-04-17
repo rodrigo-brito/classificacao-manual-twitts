@@ -1,0 +1,22 @@
+{
+  "name": "classificacao-twitts",
+  "version": "1.0.0",
+  "description": "Classificação manual de Twitts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodrigo-brito/classificacao-manual-twitts.git"
+  },
+  "author": "Rodrigo Brito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigo-brito/classificacao-manual-twitts/issues"
+  },
+  "devDependencies": {
+    "mongodb": "^2.1.16",
+    "prompt": "^1.0.0"
+  }
+}
